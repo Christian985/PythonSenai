@@ -1,0 +1,1 @@
+if numero = 4 or if numero = 2
